@@ -1,0 +1,203 @@
+n,DATA,REG_SISCRIM,FATO,LOCAL,ORGAO,HORARIO,ENDERECO,LON_UTM,LAT_UTM,LON,LAT,VESTIG_BIO,LAUDO_INC,LAUDO,PCF_1,PCF_2,OCORR_SIGEPOL,ATIV_SISCRIM
+1,05/01/15,032/15,Constatação de danos,Agência,CEF,,"Rua Conselheiro Laurindo, 280, Curitiba",674427,7186388,-49.26555,-25.42924,nenhum,,532/15,Luiz,Christian,09/15,1/15
+2,08/01/15,050/15,Preliminar - Maconha,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,033/15 e 121/15,Luiz,-,11/15,2/15
+3,13/01/15,165/15,Furto,Viatura,Correios,,"Rua Princesa Isabel, 2500, Curitiba ",673118,7185090,-49.27839,-25.44111,nenhum,,076/15,Rodrigo,Ota,19/15,
+4,15/01/15,576/15,Outros,Outro,Outro,,"Paranaguá/PR, as margens da av. Tufi Marrom, bairro Emboguaçú, em frente ao depósito da empresa BRASMAR",747870,7173491,-48.53333,-25.53517,nenhum,,1372/15,Luiz,Darwin,-,11/15
+5,15/01/15,167/15,Preliminar - Cocaína,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,074 e 075/15,Rodrigo,,26/15,
+6,17/01/15,195/15,Estelionato - Telefone,Agência,CEF,,"Avenida Prefeito Erasto Gaetner, 161, Curitiba ",676567,7189130,,,laudo INC emitido,1268/15,158/15,Akira,Ronaldo,31/15,4/15
+7,17/01/15,196/15,Estelionato - Telefone,Agência,CEF,,"Rua Desembargador Westphalen, 203, Curitiba ",673783,7185810,,,laudo INC emitido,1272/15,159/15,Akira,Ronaldo,32/15,5/11
+8,18/01/15,197/15,Explosão,Agência,CEF,,"Rua da Cidadania do bairro Santa Felicidade, TERMINal de bus",668021,7189608,,,laudo INC emitido,1452/15,162/15,Akira,Ronaldo,33/15,6/15
+9,26/01/15,1122/15,Furto,Viatura,Correios,,"Rua Eng. Ariel Vilar Tacla, 500, Curitiba",667822,7178547,,,,508/16,,Ior,Benazzi,56/15,
+10,27/01/15,357/15,Furto,Viatura,Correios,,"Rua Arthur Martins Franco, 1680, Curitiba",667331,7178949,,,nenhum,,272/15,Jorge,Christian,62/15,
+11,28/01/15,359/15,Estelionato - Bloqueador,ATM,CEF,,"Travessa Oliveira Bello com a Rua Emiliano Perneta, junto à Praça Zacarias, em Curitiba/PR",673690,7185998,,,laudo INC emitido,1360/15,278/15,Akira,Ota,64/15,12/15
+12,28/01/15,"360/15, 1253/15",Acidente de trânsito,Outro,PF,,"cruzamento entre a avenida Marechal Floriano Peixoto e a rua Engenheiro Rebouças, Curitiba (PR)",674409,7184737,,,nenhum,,1321/15,Akira,Ota,66/15,13/15
+13,29/01/15,361/15,Arrombamento e furto,Agência,Correios,,"Rua Caçador, 526, São José dos Pinhais",691956,7174599,,,laudo INC emitido,1337/15,380/15,Akira,Ota,69/15,14/15
+14,29/01/15,417/15,Estelionato - Bloqueador,ATM,CEF,,"Rua XV de novembro, 2831, Curitiba",676311,7186610,,,laudo INC emitido,1348/16,337/15,Luiz,Werner,70/15,24/15
+15,29/01/15,418/15,Estelionato - Bloqueador,ATM,CEF,,"Av. Rep. Argentina, 1927 - Água Verde, Curitiba - PR",671874,7182613,,,laudo INC emitido,1744/15,393/15,Luiz,Werner,71/15,25/15
+16,29/01/15,419/15,Furto,Viatura,Correios,,"Rua Francisco Raitane, 7187, Curitiba",671487,7177643,,,laudo INC emitido,090/16,1070/15,Luiz,Werner,72/15,26/15
+17,30/01/15,420/15,Explosão,Agência,CEF,,"Rua Pedro Druszcz, 92, Araucária",660447,7168756,,,laudo INC emitido,025/16,1752/15,Luiz,Werner,78/15,28/15
+18,30/01/15,349/15,Estelionato - Bloqueador,ATM,CEF,,"Avenida Batel, 1134, Curitiba",672517,7185103,,,laudo INC emitido,1338/15,199/15,Rodrigo,Darwin,79/15,49/15
+19,01/02/15,1123/15,Estelionato - Bloqueador,ATM,CEF,,"Rua Desembargador Motta, 1499, Curitiba",673118,7185090,,,nenhum,,545/15,Sérvio,Darwin,82/15,27/15
+20,02/02/15,468/15,Estelionato - Bloqueador,ATM,CEF,,"Avenida Batel, 1134, Curitiba",672517,7185103,,,laudo INC emitido,1456/15,273/15,Reinaldo,Sandro,86/15,17/15
+21,03/02/15,788/15,Estelionato - Bloqueador,ATM,CEF,,"Avenida República Argentina, 4455, Curitiba",671540,7180222,,,laudo INC emitido,1784/15 e 1880/15,616/17 e 627/15,Rodrigo,Fernando,89/15,50/15
+22,03/02/15,790/15,Estelionato - Bloqueador,ATM,CEF,,"Avenida Marechal Floriano Peixoto, 275 – Centro, Curitiba (PR)",673907,7186008,,,nenhum,,IT 055/15,Rodrigo,Fernando,91/15,51/15
+23,03/02/15,-,Estelionato - Bloqueador,ATM,CEF,,SEM ENDEREÇO NO SISCRIM - AGUARDAR LAUDO,,,,,nenhum,,-,Rodrigo,Fernando,-,52/15
+24,06/02/15,444/15,Estelionato - Bloqueador,ATM,CEF,,"Rua Winston Churchil, 1190, Curitiba",671245,7177859,,,nenhum,,790/15,Maia,Schamne,96/15,40/15
+25,06/02/15,445/15,Estelionato - Bloqueador,ATM,CEF,,"República Argentina, 4455, Curitiba ",671540,7180222,,,nenhum,,793/15,Maia,Schamne,97/15,41/15
+26,07/02/15,443/15,Estelionato - Bloqueador,ATM,CEF,,"Rua Desmbargador Motta esquina com a Visconde de Guarapuava, Curitiba (PR)",673128,7185148,,,nenhum,,788/15,Maia,Schamne,100/15,42/15
+27,12/02/15,520/15,Estelionato - Chupa-Cabra,ATM,CEF,,"Av Floriano Peixoto, esquina com a rua Alcino Guanabara, Hauer",676153,7180625,,,nenhum,,555/15,Sérvio,Christian,115/15,73/15
+28,18/02/15,724/15,Arrombamento e furto,Agência,Residência,,"Rua Darcy Setim, 377, São José dos Pinhais",680841,7175903,,,laudo INC emitido,997/15,436/15,Ivan,Christian,-,
+29,19/02/15,562/15,Roubo,Agência,Correios,,"Avenida Nossa Senhora Aparecida, 327, Curitiba",670753,7184168,,,nenhum,,822/15,Marlon,Brunori,121/15,31/15
+30,21/02/15,"579/15, 581/15",Roubo,Agência,CEF,,"Avenida Prefeito Erasto Gaertner, 161, Curitiba ",676567,7189130,,,enviado INC,2256/16,729/15,Rodrigo,Fabiano,124/15,53/15
+31,22/02/15,580/15,Explosão,Agência,CEF,,"UTFPR, Av. Monteiro Lobato, s/n, km 04, Jardim Carvalho, Ponta Grossa",587647,7229098,,,laudo INC emitido,146/16,636/15,Rodrigo,Fabiano,125/15,54/15
+32,23/02/15,596/15,Preliminar - Cocaína,Outro,PF,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,339/15,Akira,-,129/15,39/15
+33,03/03/15,721/15,Furto,Agência,CEF,,"Avenida Kennedy, 143, Curitiba ",674620,7183957,,,laudo INC emitido,1869/15,610/15,Rodrigo,Brunori,150/15,55/15
+34,03/03/15,734/15,Estelionato - Chupa-Cabra,Agência,CEF,,"Avenida Paraná, 3654, Curitiba ",677762,7191179,,,laudo INC emitido,1794/15,1611/15,Marlon,Benazzi,154/15,46/15
+35,06/03/15,783/15,Furto,Agência,Correios,,"Rua XV de Novembro, 1674, São  José  dos  Pinhais",680631,7174306,,,nenhum,,499/15,Reinaldo,Benazzi,160/15,58/15
+36,06/03/15,781/15,Furto,Agência,CEF,,"Rua João Dembinski, 3265, Curitiba ",667156,7181394,,,nenhum,,643/15,Reinaldo,Benazzi,163/15,59/15
+37,11/03/15,893/15,Morte violenta,Outro,PRF,,"Km 139 da BR-277, posto são luiz do purunã, balsa nova/pr",628202,7182376,,,nenhum,,"795, 796, 797, 775, 794 e 799/15",Franus,Fabiano,170/15,"60/15, 80/15"
+38,13/03/15,"969/15, 965/15",Roubo,Agência,Correios,,"Avenida Brasil, 460, Balsa Nova",637675,7169847,,,laudo INC emitido,134/16,420/16,Marlon,Darwin,173/15,61/15
+39,14/03/15,"968/15, 970/15",Outros,ATM,CEF,,"Avenida Marechal Floriano, 5760, Curitiba",676006,7180907,,,nenhum,,733/16,Marlon,Darwin,178/15,62/15
+40,17/03/15,1008/15,Outros,Outro,UTFPR,,"Avenida Deputado Heitor Alencar Furtado, 5000, Curitiba",665563,7184930,,,nenhum,,942/15,Franus,Klock,186/15,"71/15, 70/15"
+41,18/03/15,1047/15,Roubo,Agência,Correios,,"Rua Manuel Ribas, 812, Mercês, Curitiba ",672294,7187243,,,nenhum,,1761/15,Luiz,Akira,187/15,68/15
+42,18/03/15,"1046/15, 1023/15",Roubo,Agência,Correios,,"Rua Dorval Ceccon, 664, Alto Maracanã, Curitiba",682693,7193850,,,enviado INC,356/16,582/15,Reinaldo,Klock,190/15,72/15
+43,18/03/15,1038/15,Furto,Viatura,Correios,,"Rua Desembargador Motta, 1670, Curitiba",673078,7185328,,,nenhum,,857/15,Maia,Schamne,191/15,86/15
+44,22/03/15,"1089, 1088/15",Furto,Agência,Correios,,"Rua Mateus Leme, 1310, Curitiba",673874,7187888,,,,,2422/16,Ior,Ronaldo,204/15,
+45,26/03/15,"1166, 1167/15",Furto,Viatura,PF,,"Rua Miguel Jorge Nasser, 17, Tingui, Curitiba",678316,7190916,,,laudo INC emitido,735/15,1045/15,Franus,,216/15,78/15
+46,28/03/15,1325/15,Estelionato - Telefone,Agência,CEF,,"Rua Delegado Leopoldo Balzack, 1588, Curitiba",678887,7185377,,,laudo INC emitido,2055/15,872/15,Maia,Klock,221/15,87/15
+47,02/04/15,1260/15,Roubo,Agência,Correios,,"Rua Caçador, 491, São José dos Pinhais",692005,7174602,,,laudo INC emitido,1955/15,832/15,Reinaldo,Brunori,234/15,84/15
+48,05/04/15,1288/15,Outros,Outro,PF,,"Estrada Santa Cândida, 290, Curitiba",679250,7192552,,,nenhum,,Inf 094/15,Akira,Sandro,238/15,85/15
+49,06/04/15,"1285/15, 1290/15",Roubo,Viatura,Correios,,"Rua Anne Frank, 4920, Hauer, Curitiba ",677559,7177630,,,laudo INC emitido,2152/15,744/16,Marlon,Darwin,240/15,82/15
+50,07/04/15,1374/15,Roubo,Viatura,Correios,,"Rua Ourizona, 1700, Sítio Cercado, Curitiba",674614,7173574,,,nenhum,,789/15,Sérvio,Accioly,244/15,103/15
+51,08/04/15,1343/15,Roubo,Viatura,Correios,,"Rua Jornalista Reinaldo Dacheux Pereira, entre Fernando Knalpp e Ernesto Biscandi, CIC",669678,7177825,,,envio pendente,1948/16,1008/15,Franus,Ronaldo,247/15,88/15
+52,10/04/15,1375/15,Roubo,Agência,Correios,,"Rua Jasmim, 395, Campo Magro",665244,7192041,,,enviado INC,314/16,1891/15,Sérvio,Débora,253/15,104/15
+53,16/04/15,1479/15,Preliminar - Maconha,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,720/15,Luiz,-,274/15,99/15
+54,28/04/15,1536/15,Estelionato - Telefone,Agência,CEF,,"Rua dos Pioneiros, 1171, Sitio Cercado, Curitiba",673998,7174772,,,laudo INC emitido,2090/15,877/15,Maia,Adriana,282/15,120/15
+55,22/04/15,1539/15,Constatação de danos,Agência,Correios,,"Rua Mateus Leme, 1310, Curitiba ",673874,7187888,,,nenhum,,928/15,Maia,Accioly,288/15,138/15
+56,25/04/15,1565/15-1701/15,Arrombamento,Agência,CEF,,"Rua Jacarandá, 305, Fazenda  Rio  Grande",669712,7162050,,,nenhum,,932/15,Reinaldo,Fabiano,295/15,105/15
+57,28/04/15,1636/15,Furto,Viatura,Correios,,"Rua  Portugal, 401, São Francisco, Curitiba",673268,7187202,,,nenhum,,1042/15,Luiz,-,229/15,109/15
+58,30/04/15,1691/15,Furto,Viatura,Correios,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,1048/15,Luiz,-,302/15,110/15
+59,30/04/15,1688/15,Preliminar - Maconha,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,0828/15,Luiz,Schamne,303/15,111/15
+60,01/05/15,1692/15,Explosão,Agência,CEF,,"UNICENTRO, situado à rua Santa Bertila, s/n, Irati/PR ",534486,7176040,,,enviado INC,1917/16,1877/15,Luiz,Schamne,305/15,116/15
+61,04/05/15,1716/15,Constatação de danos,Agência,CEF,,"Avenida Visconde de Mauá, 1740, Oficinas, Ponta Grossa",585140,7221128,,,nenhum,,-,Marlon,Ronaldo,-,112/15
+62,05/05/15,1719/15,Furto,Viatura,Correios,,SEM LOCAL DEFINIDO,-,-,,,enviado INC,820/16,898/15,Rodrigo,-,314/15,310/15
+63,08/05/15,1859/15,Roubo,Agência,Correios,,"Avenida Nossa Senhora Aparecida, 327, Seminário, Curitiba",670753,7184168,,,laudo INC emitido,057/16,1990/15,Luiz,Benazzi,316/15,155/15
+64,09/05/15,1856/15,Arrombamento,Agência,CEF,,"Avenida Winston Churchill, 1190, Pinheirinho, Curitiba",671245,7177859,,,nenhum,,1849/15,Luiz,Benazzi,320/15,169/15
+65,10/05/15,1860/15,Arrombamento,Agência,CEF,,"Rua Joinville, 3628, São Pedro, São José dos Pinhais",681797,7172443,,,enviado INC,1065/16,2417/15,Luiz,Benazzi,323/15,170/15
+66,13/05/15,2012/15,Furto,Viatura,Correios,,"Rua Tijucas do Sul, 1880, Sítio Cercado, Curitiba",674324,7173508,,,nenhum,,756/16,Marlon,Accioly,331/15,135/15
+67,13/05/15,2016/15,Outros,Outro,PF,,"R. Profa. Sandália Monzon, 210 - Santa Cândida, Curitiba",678294,7192240,,,laudo INC emitido,966/15,1320/15,Marlon,Accioly,336/15,137/15
+68,17/05/15,2043/15,Arrombamento,Agência,CEF,,"Rua Duílio Calderari, 1841, Campina Grande do Sul",691186,7193400,,,laudo INC emitido,2142/15,1836/15,Akira,Darwin,339/15,143/15
+69,19/05/15,2086/15,Preliminar - Cocaína,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,996/15,Ivan,-,342/15,173/15
+70,21/05/15,2180/15,Outros,Outro,PF,,"R. Profa. Sandália Monzon, 210 - Santa Cândida, Curitiba",678316,7192271,,,nenhum,,1748/15,Luiz,Adriana,345/15,179/15
+71,22/05/15,2162/15,Furto,Viatura,Correios,,"Rua Zenom Silva, 134 – Vila Guaíra, Curitiba (PR)",674554,7181701,,,nenhum,,1032/15,Ivan,Fernando,352/15,234/15
+72,27/05/15,2231/15,Furto,Viatura,Correios,,"Rua Guaianazes, 608, Curitiba",671653,7182953,,,laudo INC emitido,009/16,2279/16,Akira,Klock,358/15,174/15
+73,30/05/15,"2274/15, 2309/15",Estelionato - Bloqueador,Agência,CEF,,"Avenida Sete de Setembro, 6505, Curitiba",670936,7184051,,,envio pendente,1967/16,884/16,Marlon,Sandro,365/15,184/15
+74,30/05/15,-,Outros,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,sem laudo,Marlon,-,366/15,200/15
+75,31/05/15,2276/15,Constatação de danos,Agência,CEF,,"Avenida Marginal José de Anchieta, 1440, Guarani, Colombo",682368,7193129,,,nenhum,,1042/16 e 715/17 ,Marlon,Sandro,367/15,201/15
+76,01/06/15,2289/15,Roubo,Agência,Correios,,"Rua Catarina Knapik, 83, Quatro Barras",693895,7192739,,,enviado INC,797/16,2349/15,Rodrigo,Ricardo,370/15,311/15
+77,02/06/15,2329/15,Furto,Viatura,Correios,,"Rua Visconde do Cerro Frio, 164, Novo Mundo, Curitiba",671299,7180098,,,nenhum,,1207/15,Maia,Adriana,373/15,209/15
+78,03/06/15,2322/15,Roubo,Agência,Correios,,"Avenida Manoel Ribas, 812, Curitiba",672294,7187243,,,laudo INC emitido,038/16,2295/16,Akira,Ota,376/15,193/15
+79,03/06/15,2323/15,Roubo,Agência,Correios,,"Avenida Brasil, 460, Balsa Nova",637675,7169847,,,laudo INC emitido,2296/15,2367/16,Akira,Ota,378/15,194/15
+80,06/06/15,2325/15,Furto,Viatura,Correios,,"Avenida João Negrão, 1251, Curitiba",674766,7185270,,,devolvido,,1310/15,Franus,Ronaldo,381/15,204/15
+81,06/06/15,2341/15,Estelionato - Chupa-Cabra,ATM,CEF,,"Rua Rio Branco, 1589, Lapa",628564,7149251,,,enviado INC,504/16,1311/15,Franus,Ronaldo,382/15,205/15
+82,06/06/15,2342/15,Arrombamento,Agência,CEF,,"Rua XV de Novembro, 2831, Curitiba",676311,7186610,,,enviado INC,887/16,1456/15,Franus,Ronaldo,383/15,206/15
+83,08/06/15,2347/15,Estelionato - Bloqueador,ATM,CEF,,"Avenida República Argentina, 10701, Curitiba",671424,7179016,,,enviado INC,1658/16,1106/16,Marlon,Accioly,386/15,202/15
+84,08/06/15,2348/15,Furto,Viatura,Correios,,"Em frente ao shopping cidade, hauer",675708,7181573,,,nenhum,,1108/16,Marlon,Accioly,388/15,203/15
+85,12/06/15,2459/15,Roubo,Agência,Correios,,"Rua Carlos Machado, 52, Agudos do Sul",666680,7124319,,,laudo INC emitido,1909/15,1573/15,Maia,Ricardo,394/15,215/15
+86,12/06/15,2458/15,Roubo,Agência,Correios,,"Avenida Salgado Filho, 5378, Curitiba",678901,7179660,,,laudo INC emitido,2070/15,1547/15,Maia,Ricardo,395/15,216/15
+87,15/06/15,2497/15,Furto,Viatura,Correios,,"Avenida Francisco Derosso, Curitiba",675237,7176709,,,nenhum,,1231/15,Ivan,-,399/15,233/15
+88,19/06/15,2581/15,Roubo,Viatura,PF,,"Rua Vicente Pontarolla, esquina com Deputado Nilson Ribas, no Bairro Seminário",669775,7184797,,,enviado INC,976/16,1817/15,Luiz,Darwin,419/15,225/15
+89,22/06/15,2572/15,Preliminar - Maconha,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,1217/15,Luiz,-,431/15,226/15
+90,24/06/15,2677/15,Roubo,Agência,Correios,,"Rua Caçador, 491, Borda do Campo, São José dos Pinhais",692005,7174602,,,nenhum,,2032/15,Maia,Fernando,440/15,252/15
+91,25/06/15,2682/15,Roubo,Agência,Correios,,"Rua Baronesa do Cerro Azul, 200, Praia de Leste",753716,7155290,,,laudo INC emitido,2300/15,1700/15,Franus,Schamne,-,240/15
+92,28/06/15,2694/15,Preliminar - Cocaína,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,1293/15,Akira,-,449/15,239/15
+93,29/06/15,2715/15,Arrombamento,Agência,Correios,,"Rua Padre Francisco Bonatto, 316, Colombo",678682,7201276,,,nenhum,,2062/15,Maia,Sandro,451/15,253/15
+94,01/07/15,2820/15,Roubo,Agência,Correios,,"Avenida Nossa Senhora Aparecida, 327, Batel, Curitiba",670753,7184168,,,nenhum,,1937/15,Luiz,Christian,463/15,265/15
+95,10/07/15,2936/15,Furto,Viatura,Correios,,"Avenida Marechal Floriano Peixoto, 7932, Boqueirão, Curitiba",676875,7178916,,,laudo INC emitido,2321/15,1788/15,Luiz,Sandro,482/15,275/15
+96,11/07/15,2935/15,Arrombamento,Agência,CEF,,"Avenida João Gualberto, 1156, Juvevê, Curitiba",674784,7187731,,,enviado INC,475/16,2535/15,Luiz,Sandro,483/15,284/15
+97,14/07/15,3006/15,Arrombamento,Agência,CEF,,"Rua Jundiaí do Sul, 615, Sítio Cercado, Curitiba",675595,7172687,,,nenhum,,2048/15,Maia,Benazzi,488/15,427/15
+98,22/07/15,3417/15,Outros,Outro,PF,,"R. Profa. Sandália Monzon, 210 - Santa Cândida, Curitiba",678316,7192271,,,nenhum,,1807/15,Ivan,-,502/15,365/15
+99,23/07/15,3091/15,Furto,Outro,IFPR,,"Avenida Salgado Filho, 1200, Rebouças, Curitiba",676218,7182714,,,enviado INC,1028/16,2542/15,Luiz,Werner,504/15,320/15
+100,23/07/15,3118/15,Roubo,Agência,Correios,,"Rua José de Sá Ribas, 37, Centro, Quitandinha",650182,7137696,,,nenhum,,2612/15,Luiz,Werner,505/15,285/15
+101,23/07/15,042/2016,Suspeita de bomba,Agência,CEF,,"Rua Westphalem, 430 – Curitiba (PR)",673849,7185591,,,nenhum,,-,Franus,Fabiano,507/15,282/15
+102,24/07/15,3119/15,Roubo,Viatura,Correios,,"Rua Lauro Grein, 466, Curitiba",665581,7180605,,,enviado INC,1100/16,2008/15,Franus,Accioly,511/15,292/15
+103,27/07/15,3120/15,Constatação de danos,Agência,CEF,,"Rua da Fonte, 280, Matinhos",747086,7142387,,,nenhum,,1882/15,Sérvio,Schamne,122/15 PNG,
+104,28/07/15,3142/15,Roubo,Agência,Correios,,"Rua Vicente Machado, 52, Campina Grande do Sul ",695995,7199873,,,laudo INC emitido,1937/15,1133/16,Marlon,Adriana,519/15,286/15
+105,29/07/15,3179/15,Estelionato - Bloqueador,ATM,CEF,,"Travessa da Lapa, 670, Curitiba",674244,7186210,,,nenhum,,-,Sérvio,Benazzi,521/15,
+106,31/07/15,3178/15,Roubo,Agência,Correios,,"Rua Catarina Knapik, 85, Centro, Quatro Barras",693895,7192741,,,enviado INC,399/16,041/16,Luiz,Benazzi,529/15,348/15
+107,31/07/15,3176/15,Roubo,Agência,Correios,,"Rua José Bernardino Borhmann, 1258, Bigorrilho, Curitiba ",671044,7185855,,,enviado INC,835/16,062/16,Luiz,Benazzi,530/15,349/15
+108,31/07/15,3175/15,Roubo,Viatura,Correios,,SEM LOCAL DEFINIDO,-,-,,,enviado INC,2479/16,1880/15,Luiz,-,531/15,351/15
+109,03/08/15,3174/15,Roubo,Agência,Correios,,"Rua Amazonas, 336, Piên",656948,7112365,,,,,12737/16,Sérvio,Sandro,535/15,
+110,06/08/15,3297/15,Furto,Agência,CEF,,"Rua Odir Gomes da Rocha, 985, Curitiba",667544,7170500,,,enviado INC,2312/16,1728/15,Rodrigo,Ronaldo,540/15,327/15
+111,06/08/15,3272/15,Furto,Agência,UFPR,,"Praça Santos Andrade, 50, Centro, Curitiba ",674252,7186417,,,nenhum,,1711/15,Rodrigo,Ronaldo,542/15,336/15
+112,09/08/15,3299/15,Arrombamento,Agência,CEF,,"Avenida Sete de Setembro, 1970, Curitiba",675121,7185789,,,laudo INC emitido,834/17,1573/16,Marlon,Adriana,549/15,337/15
+113,12/08/15,3352/15,Furto,Viatura,Correios,,"Rua Julia da Costa, 222, Curitiba",672987,7186577,,,nenhum,,2129/15,Maia,,555/15,014/16
+114,13/08/15,3381/15,Roubo,Agência,Correios,,"Rodovia João Leopoldo Jacomel, 12677, Curitiba ",681587,7185964,,,laudo INC emitido,001/16,1823/15,Ivan,Accioly,561/15,366/15
+115,14/08/15,3380/15,Furto,Agência,CEF,,"Largo Afonso Roesler, Contenda",647134,7159254,,,enviado INC,1436/16,1944/15,Ivan,Accioly,565/15,414/15
+116,14/08/15,3379/15,Preliminar - Maconha,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,1709/15,Akira,-,566/15,342/15
+117,19/08/15,3410/15,Furto,Agência,CEF,,"Rua Joinville, 3628, São Pedro, São José dos Pinhais ",681797,7172443,,,laudo INC emitido,836/17,1637/16,Marlon,Ota,579/15,357/15
+118,20/08/15,3427/15,Arrombamento e furto,Outro,TRE,,"Forum eleitoral, Rua Borges de Medeiros, S/N, de Rio Branco do Sul/PR",670187,7213609,,,enviado INC,577/16,2445/15,Akira,Sandro,582/15,353/15
+119,25/08/15,3470/15,Constatação de danos,Agência,CEF,,"Praça Osório, 319, Curitiba ",673263,7185927,,,nenhum,,355/16 e 1673/16,Sérvio,Klock,596/15,
+120,30/08/15,3591/15,Arrombamento,Agência,CEF,,"Rua Jundiaí, 615, Curitiba",675595,7172687,,,nenhum,,2028/15,Rodrigo,Fernando,609/15,407/15
+121,30/08/15,3589/15,Estelionato - Chupa-Cabra,Agência,CEF,,"Avenida Paraná, 3654, Curitiba ",677762,7191179,,,enviado INC,277/16,1968/15,Ivan,Fernando,610/15,
+122,31/08/15,3592/15,Outros,Outro,PRF,,"Delegacia da Polícia Rodoviária Federal (PRF), em Colombo ",685958,7192226,,,enviado INC,1292/16,2031/15,Rodrigo,Aiga,611/15,406/15
+123,31/08/15,3587/15,Roubo,Agência,Correios,,"Rua Fredolin Wolf, 43, Almirante Tamandaré",671414,7199571,,,enviado INC,240/16,2043/15,Franus,Fabiano,612/15,381/15
+124,31/08/15,3588/15,Acidente de trânsito,Outro,PF,,"Avenida Mascarenhas de Moraes, 1295, Curitiba",679359,7191391,,,nenhum,,2492/15,Franus,Marco,614/15,382/15
+125,01/09/15,3614/15,Roubo,Agência,Correios,,"Avenida Nossa Senhora Aparecida, 327, Seminário, Curitiba",670753,7184168,,,enviado INC,968/16,2087/15,Adriana,Brunori,617/15,393/15
+126,01/09/15,3615/15,Roubo,Viatura,Correios,,"Rua Fritz Haafe s/n, no “final da rua”, Piraquara",685472,7183709,,,nenhum,,2084/15,Adriana,Brunori,618/15,393/15
+127,01/09/15,3616/15,Roubo,Viatura,Correios,,"Rua Professor Pedro Viriato Parigot de Souza, 2581, Curitiba",667555,7185609,,,nenhum,,2085/15,Adriana,Brunori,619/15,393/15
+128,02/09/15,3639/15,Roubo,Outro,UTFPR,,"Avenida Heitor Alencar Furtado, 5000, Cidade Industrial, Curitiba",665563,7184930,,,enviado INC,212/16,2569/15,Franus,Klock,621/15 - A,392/15
+129,02/09/15,3655/15,Roubo,Viatura,PRF,,"Rua Rockefeller, 980, Curitiba ",674796,7184465,,,enviado INC,456/16,3477/15,Franus,Klock,621/15 - B,391/15
+130,04/09/15,"3649, 3998/15",Roubo,Agência,Correios,,"Avenida Atlântica, 532, Pontal do Paraná",753284,7153931,,,laudo INC emitido,919/16 e 340/17,2385/16,Akira,Accioly,625/15,OMP 167/15
+131,08/09/15,3641/15,Preliminar - Cocaína,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,1920/15,Sérvio,-,635/15,
+132,11/09/15,3730/15,Arrombamento,Agência,Correios,,"Rua Professor Duílio Calderari, 1829, Campina Grande do Sul",691157,7193365,,,laudo INC emitido,1106/16 e 2817/16,2453/16,Akira,Darwin,643/15,408/15
+133,12/09/15,3729/15,Furto,Viatura,Correios,,"Rua Ponta Grossa com Av. da República, no bairro Portão ",672200,7181159,,,laudo INC emitido,807/16,2386/16,Akira,-,648/15,410/15
+134,15/09/15,3780/15,Roubo,Agência,Correios,,"Avenida Nossa Senhora Aparecida, 327, Batel, Curitiba",670753,7184168,,,nenhum,,2015/15,Bogo,Accioly,655/15,413/15
+135,17/09/15,3804/15,Roubo,Agência,Correios,,"Avenida Miguel Komarchewski, 1121, Campo do Tenente",631861,7125720,,,enviado INC,165/17,2169/15,Adriana,Ronaldo,657/15,416/15
+136,21/09/15,3817/15,Explosão,ATM,CEF,,"Rua Eros Rupel Abdala, 222, Tunas do Paraná",693161,7236464,,,enviado INC,1210/16,2459/15,Franus,Benazzi,660/15,421/15
+137,21/09/15,3860/15,Roubo,Agência,Correios,,"Rua Duílio Calderari, 1829, Campina Grande do Sul",691157,7193365,,,,,1764/16,Sérvio,,662/15,
+138,24/09/15,4000/15,Furto,Agência,Correios,,"Avenida Roque Vernalha, 2343, Paranaguá",747531,7175263,,,enviado INC,1689/16,089/16,Dante,Ricardo,-,
+139,24/09/15,3872/15,Furto,Viatura,Correios,,"Rua Comendador Roseira, 330, Curitiba",675340,7184023,,,nenhum,,2136/15,Maia,,668/15,461/15
+140,25/09/15,4388/15,Outros,Outro,Alvo,,SEM LOCAL DEFINIDO,-,-,,,enviado INC,2703/16,-,Marlon,Brunori,-,444/15
+141,25/09/15,3874/15,Acidente de trânsito,Outro,PF,,"BR-277, KM 74, sentido Paranaguá, após o viaduto Rui Barbosa, São José dos Pinhais",695224,7173469,,,nenhum,,2341/15,Dante,Ricardo,670/15,447/15
+142,25/09/15,3900/15,Roubo,Agência,Correios,,"Avenida Benjamin Constant Teixeira, 597, Centro, Bocaiúva do Sul",690109,7210414,,,enviado INC,256/16,2162/15,Bogo,Benazzi,671/15,445/15
+143,25/09/15,3906/15,Roubo,Viatura,PF,,"Rua Arcezio Antônio Scandelari, 349, Pilarzinho, Curitiba",673040,7190980,,,enviado INC,1108/16,1665/16,Marlon,Brunori,672/15,
+144,25/09/15,3908/15,Roubo,Agência,Correios,,"Rua Vicente Machado, 52, Campina Grande do Sul",695995,7199873,,,enviado INC,992/16,2214/15,Maia,,673/15,462/15
+145,27/09/15,3911/15,Acidente de trânsito,Outro,PF,,"Av. Cândido de Abreu com a Rua Barão de Antonina, próx ao Shopping Muller",674010,7187126,,,nenhum,,2195/15,Maia,,675/15,457/15
+146,02/10/15,4128/15,Estelionato - Chupa-Cabra,ATM,CEF,,"Avenida Presidente Kennedy, 1000, Curitiba",673853,7183242,,,envio pendente,,1841/17,Ior,Aiga,681/15,488/15
+147,05/10/15,4246/15,Furto,Agência,CEF,,"Rua Marechal Floriano Peixoto, 275, Centro, Curitiba",673907,7186008,,,enviado INC,1040/16,2386/15,Fabiano,Accioly,687/15,472/15
+148,07/10/15,4248/15,Roubo,Agência,Correios,,"Avenida Miguel Komarchewski, 1121, Centro, Campo do Tenente",631861,7125720,,,enviado INC,468/16,2343/15,Adriana,Klock,692/15,473/15
+149,08/10/15,4249/15,Constatação de danos,Agência,CEF,,"Rua Telêmaco Borba, 40, Guaraituba, Colombo",684619,7195013,,,nenhum,,2293/15,Christian,Gustavo,693/15,474/15
+150,09/10/15,"4250/15, 4615/15",Arrombamento,Agência,Correios,,"Rua César Carreri, 335, Fazenda Rio Grande",669014,7162544,,,laudo INC emitido,1812/17,1986/16,Marlon,Brunori,696/15,526/15
+151,09/10/15,4251/15,Roubo,Agência,Correios,,"Avenida Dr. Vicente Machado, 52, Campina Grande do Sul",695944,7199856,,,cadastro pendente,,1988/16,Marlon,Brunori,697/15,527/15
+152,13/10/15,4256/15,Roubo,Agência,Correios,,"Avenida Ponta Grossa, 194, Guaratuba",742761,7135902,,,enviado INC,,2705/16,Sérvio,Schamne,703/15,
+153,13/10/15,4255/15,Roubo,Agência,Correios,,"Avenida Brasil, 460, Balsa Nova",637675,7169847,,,enviado INC,1529/16,2457/15,Franus,Benazzi,704/15,484/15
+154,14/10/15,"4295/15, 4280/15",Roubo,Agência,Correios,,"Avenida Nossa Senhora Aparecida, 327, Seminário, Curitiba",670753,7184168,,,enviado INC,1530/16,2467/15,Franus,Benazzi,707/15,485/15
+155,15/10/15,4294/15,Roubo,Agência,Correios,,"Rua Jasmim, 395, Jardim Boa Vista, Campo Magro",665244,7192041,,,nenhum,,2297/15,Bogo,Darwin,708/15,486/15
+156,20/10/15,"4322/15, 5020/15",Explosão,Agência,CEF,,"Terminal Cabral, Curitiba (PR)",675753,7188874,,,envio pendente,2430/16,2460/16,Akira,Fernando,720/15,"503/15, 497/15"
+157,21/10/15,4330/15,Outros,Agência,CEF,,"Rua São Luiz, 753, Curitiba",675825,7189329,,,nenhum,,262/16 e 112/16,Christian,Ronaldo,722/15,505/15
+158,22/10/15,"4329/15, 4760/15",Acidente de trânsito,Outro,PF,,"Rua Jovino do Rosário, 1130, Curitiba",676959,7190416,,,nenhum,,027/16,Maia,Sandro,725/15,015/16
+159,27/10/15,4619/15,Arrombamento,ATM,CEF,,"Rua Xavier da Silva, 1149, Campo Largo",647910,7183575,,,nenhum,,708/16,Dante,Sandro,734/15,
+160,30/10/15,"4465/15, 4733/15",Roubo,Agência,Correios,,"Rua Carlos Machado, 52, Centro, Agudos do Sul",666680,7124319,,,enviado INC,2218/16,349/16,Dante,Schamne,739/15,
+161,03/11/15,4464/15,Arrombamento,Agência,Correios,,"Rua Barão do Rio Branco, 1355, Centro, Lapa",628526,7236314,,,enviado INC,1073/16,2157/16,Aiga,Ricardo,747/15,538/15
+162,05/11/15,"4529/15, 4757/15",Explosão,ATM,CEF,,"Rua Eros Ruppel Abdalla, 229, Centro, Tunas do Paraná",692982,7149445,,,,,2601/16,Sérvio,Ota,754/15,
+163,05/11/15,"4527/15, 4536/15",Roubo,Agência,Correios,,"Avenida Vicente Machado, 52, Campina Grande do Sul",695995,7199873,,,nenhum,,2410/15,Bogo,Débora,755/15,544/15
+164,05/11/15,4528/15,Roubo,Agência,Correios,,"Rua João Barbosa Mendes, 185, Centro, Mandirituba",667811,7147929,,,nenhum,,2429/15,Bogo,Débora,756/15,545/15
+165,06/11/15,"4526/15, 4535/15",Explosão,Agência,CEF,,"Avenida Brasil, 416, Piên",656871,7112082,,,enviado INC,510/16,2463/15,Bogo,Débora,759/15,546/15
+166,09/11/15,4586/15,Roubo,Agência,CEF,,"Rua Manoel Marcilio  de  Oliveira, 300, São Marcos, São José dos Pinhais",683825,7166728,,,enviado INC,500/16,2474/15,Klock,Brunori,766/15,551/15
+167,10/11/15,4620/15,Preliminar - Cocaína,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,2398/15,Bogo,-,769/15,
+168,13/11/15,-,Outros,Viatura,Outro,,SEM ENDEREÇO NO SISCRIM - AGUARDAR LAUDO,,,,,enviado INC,,-,Klock,-,-,554/15
+169,16/11/15,4673/15,Constatação de danos,Agência,CEF,,"Rua Joinville, 3628, São José dos Pinhais",681797,7172443,,,nenhum,,002/16,Maia,Brunori,784/15,557/15
+170,17/11/15,4868/15,Preliminar - Maconha,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,2432/15,Aiga,Luiz,788/15,564/15
+171,18/11/15,4703/15,Furto,Viatura,Correios,,"Ruas José Loureiro e João Negrão, nesta capital",674359,7186167,,,enviado INC,505/16,2476/15,Klock,Sandro,791/15,
+172,19/11/15,4702/15,Roubo,Agência,Correios,,"Avenida São Pedro, 348, Itaperuçu",666531,7209928,,,enviado INC,2705/16,726/16,Benazzi,Edmar,793/15,565/15
+173,19/11/15,4701/15,Furto,Viatura,Correios,,"Rua Rubens Ávila, 360, Curitiba",666943,7175265,,,nenhum,,534/16,Benazzi,,794/15,634/15
+174,20/11/15,"4731/15, 4739/15",Estelionato - Chupa-Cabra,ATM,CEF,,"Terminal do Boqueirão, Curitiba (PR)",677837,7176630,,,nenhum,,2117/16 e 2079/16,Marlon,Darwin,798/15,578/15
+175,26/11/15,4815/15,Roubo,Agência,Correios,,"Rua Barão do Rio Branco, 1355, Centro, Lapa",628526,7149445,,,cadastro pendente,1723/16,2454/16,Marlon,Darwin,808/15,584/15
+176,26/11/15,-,Outros,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,cadastro pendente,,sem laudo,Marlon,Darwin,-,585/15
+177,27/11/15,4816/15,Furto,Viatura,Correios,,"Rua Professor Sebastião  Paraná, 232, Vila Isabel, Curitiba",671727,7182978,,,envio pendente,2431/16,826/16,Dante,Accioly,810/15,586/15
+178,30/11/15,4850/15,Furto,Outro,UFPR,,"Rua Ivone Pimentel, 1000, Pinhais",689496,7190111,,,envio pendente,2555/16,2481/16,Akira,Benazzi,816/15,592/15
+179,01/12/15,"4862/15, 5107/15",Roubo,Agência,Correios,,"Rua Itacolumi, 157, Matinhos",747483,7141962,,,nenhum,,004/16,Klock,Débora,818/15,598/15
+180,01/12/15,4863/15,Furto,Outro,UFPR,,"Rua Coronel Francisco Heráclito dos Santos, 230, Curitiba",677982,7184029,,,nenhum,,009/16,Klock,Débora,819/15,597/15
+181,06/12/15,"4970/15, 4971/15",Explosão,Agência,CEF,,"Avenida Crispim Furquim Siqueira, 851, Centro, Itaperuçu",666628,7209442,,,envio pendente,1835/16,095/16,Bogo,Fabiano,830/15,616/15
+182,09/12/15,5000/15,Arrombamento e furto,Outro,UFPR,,"Rua Coronel Francisco Heráclito dos Santos, 230, Curitiba",677982,7184029,,,envio pendente,2010/16,186/17,Marlon,Schamne,834/15,617/15
+183,09/12/15,4999/15,Roubo,Agência,CEF,,"Avenida Brasil, 727, Centro, Mandirituba",667866,7147877,,,cadastro pendente,2837/16,132/17,Marlon,Schamne,836/15,618/15
+184,12/12/15,5032/15,Preliminar - Outros,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,2578/15,Franus,-,846/15,623/15
+185,12/12/15,5031/15,Preliminar - Cocaína,Outro,PRF,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,2579/15,Franus,Adriana,847/15,626/15
+186,12/12/15,"5036/15, 5038/15, 5114/15",Estelionato - Bloqueador,ATM,CEF,,"Avenida República Argentina, 1148, Água Verde, Curitiba",672050,7183384,,,enviado INC,1206/16,"058, 059/16",Franus,Adriana,848/15,"624/15, 625/15"
+187,15/12/15,5075/15,Preliminar - Outros,Outro,Outro,,SEM LOCAL DEFINIDO,-,-,,,nenhum,,2601/15,Maia,,-,002/16
+188,16/12/15,5098/15,Furto,Viatura,Correios,,"Rua Nova Aurora, 1987",674632,7173962,,,,,2076/16,Aiga,Darwin,861/15,633/15
+189,17/12/15,5154/15,Roubo,Agência,Correios,,"Rua Fredolin Wolf, 43, Almirante Tamandaré",671414,7199571,,,envio pendente,458/17,1126/16,Luiz,Adriana,864/15,058/16
+190,18/12/15,5155/15,Roubo,Viatura,Correios,,"Parque Barigüi, Curitiba (PR)",669802,7186887,,,,,-,Ior,Sandro,870/15,
+191,18/12/15,5156/15,Roubo,Agência,Correios,,"Avenida Nossa Senhora Aparecida, 327, Batel, Curitiba",670753,7184168,,,,,-,Ior,Sandro,871/15,
+192,18/12/15,5157/15,Roubo,Agência,Correios,,"Rua Amazonas, 336, Piên",656948,7112365,,,,,-,Ior,Sandro,873/15,
+193,20/12/15,5158/15,Constatação de danos,Agência,CEF,,"Rua João Eugênio, Terminal de Paranaguá, Costeira, Paranaguá",750468,7175535,,,,,1842/17,Ior,Sandro,877/15,
+194,22/12/15,5159/15,Roubo,Agência,Correios,,"Rua Catarina Kinapik, 83, Quatro Barras",693895,7192739,,,laudo INC emitido,908/17,2592/16,Sérvio,Ota,879/15,
+195,23/12/15,0021/16,Roubo,Viatura,Correios,,SEM LOCAL DEFINIDO,-,-,,,laudo INC emitido,661/17,144/16,Maia,Debora,886/15,003/16
+196,23/12/15,0022/16,Furto,Viatura,Correios,,"Avenida República Argentina, 3197, Curitiba",671563,7181455,,,nenhum,,139/16,Maia,Debora,887/15,004/16
+197,24/12/15,0023/16,Roubo,Viatura,Correios,,"Posto de combustível da BR 376, na serra de Garuva",714043,7119472,,,envio pendente,2818/16,2490/16,Akira,Marlon,889/15,644/15
+198,24/12/15,0024/16,Furto,Agência,CEF,,"Rua Joinville, 3624, São José dos Pinhais",681797,7172443,,,cadastro pendente,2416/16,166/16,Maia,Debora,890/15,005/16
+199,27/12/15,0025/16,Constatação de danos,Agência,CEF,,"Rua Canoinhas, 441, São José dos Pinhais",692045,7174562,,,,,1761/16,Sérvio,,898/15,
+200,28/12/15,0026/16,Roubo,Agência,Correios,,"Avenida Brasil, 727, Centro, Mandirituba",667866,7147877,,,envio pendente,2838/16,1083/16,Dante,Brunori,900/15,645/15
+201,30/12/15,0027/16,Roubo,Agência,CEF,,"Rua XV de Novembro, 7780, Tijucas do Sul",682352,7131154,,,cadastro pendente,2077/16,235/16,Bogo,Benazzi,902/15,646/15
+202,31/12/15,-,,Agência,CEF,,SEM ENDEREÇO NO SISCRIM - AGUARDAR LAUDO,, ,,,nenhum,,-,Bogo,Benazzi,904/15,
